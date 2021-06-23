@@ -1,0 +1,32 @@
+  
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Day - 2</title>
+    <link rel="stylesheet" href="day2.css">
+</head>
+<body>
+<b>Saheli Kundu </b><br>
+123456<br>
+<br>
+10th June, 2021<br>
+<p class="hod">HOD,</p>
+Artificial intelligence and Machine learning<br>
+Loknete Gopinathji Munde Institute of Engineering Education & Research<br>
+<br>
+ <p style="font-style: italic;">Topic: Participation in Codecamp organized by <a href="https://www.devsnest.in/">DevsNest</a>.</p>
+<p id="p_id">
+I am writing this letter to request permission for participating in the Codecamp organized by DevsNest.<br/>
+DevNest is a non-profit organization whose aim is to provide free knowledge to all. The Codecamp consists of following courses:
+</p>
+<ol>
+    <li>Data Structures and Algorithms</li>
+    <li>Web Development</li>
+</ol>
+
+Yours Faithfully
+<br>Nikhil
+
+</body>
+</html>
