@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=1200&w=1200");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.hod {
+  font-weight: 800;
+}
+
+#p_id {
+  font-family: serif;
+}
