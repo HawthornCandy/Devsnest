@@ -1,0 +1,25 @@
+  
+body {
+  background: peru;
+}
+h1 {
+  position: absolute;
+  margin-left: 330px;
+}
+.container {
+  background: white;
+  margin: 20px 150px;
+  float: left;
+  width: 70%;
+  height: 120vh;
+  border: 5px solid maroon;
+}
+
+.text1 {
+  margin: 17vh 0vh 0vh 18vh;
+  padding: 2rem;
+}
+.text2 {
+  margin: -56vh 0vh 0vh 61vh;
+  padding: 5rem;
+}
