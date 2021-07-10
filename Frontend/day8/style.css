@@ -1,0 +1,20 @@
+.box {
+  background-color: #de4738;
+  border: 1px solid #e24e3f;
+  width: 20px;
+  height: 20px;
+}
+
+.changeColor {
+  background: white;
+  border: none;
+}
+
+.frame {
+  width: 400px;
+  height: 400px;
+  margin-top: 200px;
+  margin-left: 200px;
+  display: grid;
+  grid-template-columns: repeat(50, auto);
+}
