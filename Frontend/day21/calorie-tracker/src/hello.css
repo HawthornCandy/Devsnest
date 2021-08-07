@@ -1,0 +1,31 @@
+.container {
+  margin: 10px 50vh;
+  display: inline-block;
+}
+
+.row {
+  width: 600px;
+}
+
+.submit {
+  width: 51.5%;
+  margin-top: 10px;
+}
+
+.head {
+  margin-top: 15px;
+  margin-left: 78vh;
+}
+
+.delete,
+.edit {
+  margin: 0px 7px;
+}
+
+.box {
+  padding: 25px;
+  width: 52%;
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+}
